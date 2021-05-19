@@ -3,7 +3,7 @@ import random
 
 tim = t.Turtle()
 
-colors = ['green yellow', 'dodger blue', 'orange red', 'navy', 'indigo', 'dark violet', 'purple']
+colors = ['green yellow', 'dodger blue', 'orange red', 'navy', 'indigo', 'dark violet', 'purple', 'black']
 
 
 def draw_shape(num_sides):
